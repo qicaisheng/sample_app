@@ -26,7 +26,7 @@ gem 'bootstrap-sass'
 gem 'sprockets'
 # Use ActiveModel has_secure_password
 gem 'bcrypt'
-
+gem 'bcrypt-ruby' 
 # Use Unicorn as the app server
 # gem 'unicorn'
 
@@ -49,5 +49,6 @@ end
 group :test do
   gem 'selenium-webdriver'
   gem 'capybara'
+  gem 'factory_girl_rails'
 end
 

@@ -1,0 +1,1 @@
+ActiveModel::SecurePassword.min_cost = true
