@@ -28,6 +28,8 @@ gem 'sprockets'
 gem 'bcrypt'
 gem 'bcrypt-ruby' 
 gem 'faker'
+gem 'will_paginate' 
+gem 'bootstrap-will_paginate'
 # Use Unicorn as the app server
 # gem 'unicorn'
 
