@@ -27,6 +27,7 @@ gem 'sprockets'
 # Use ActiveModel has_secure_password
 gem 'bcrypt'
 gem 'bcrypt-ruby' 
+gem 'faker'
 # Use Unicorn as the app server
 # gem 'unicorn'
 
